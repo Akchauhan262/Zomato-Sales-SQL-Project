@@ -1,0 +1,5 @@
+pandas
+numpy
+matplotlib
+MySQL Workbench
+Google Collab
